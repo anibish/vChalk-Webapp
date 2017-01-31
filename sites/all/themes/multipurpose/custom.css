@@ -1,0 +1,27 @@
+.qrcodebox{
+    position: absolute;
+    z-index: +4;
+    width: 185px;
+    bottom: 104px;
+    left: 663px;
+}
+.reptschoolname{
+	position: absolute;
+    z-index: +4;
+    top: 700px;
+    color: white;
+    font-size: 30px;
+    font-weight: 900;
+    width: 100%;
+    text-align: center;
+}
+.reptdateofissue{
+	position: absolute;
+    z-index: +4;
+    top: 700px;
+    left: 100px
+    color: white;
+    font-size: 20px;
+    font-weight: 900;
+    text-align: center;
+}

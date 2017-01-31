@@ -1,0 +1,10 @@
+name = Table Element
+description = Provides a table element, backported from Drupal 8
+core = 7.x
+
+; Information added by Drupal.org packaging script on 2016-02-18
+version = "7.x-1.0-beta5"
+core = "7.x"
+project = "table_element"
+datestamp = "1455786849"
+
